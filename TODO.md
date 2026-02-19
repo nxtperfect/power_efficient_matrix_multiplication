@@ -1,0 +1,1 @@
+- [ ] do normal multiplication in 2 loops
