@@ -1,1 +1,2 @@
-- [ ] do normal multiplication in 2 loops
+- [x] do normal multiplication in 2 loops
+- [ ] find more optimized algorithm

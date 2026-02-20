@@ -28,5 +28,9 @@ def simpleMul(matrixA: list[list[int]], matrixB: list[list[int]]):
     return res
 
 
+def optimMulv1(matrixA: list[list[int]], matrixB: list[list[int]]):
+    pass
+
+
 if __name__ == "__main__":
     run()

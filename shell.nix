@@ -5,6 +5,6 @@ pkgs.mkShell {
   ];
   shellHook = ''
     echo "Welcome to Python dev shell"
-    python -v
+    python -V
   '';
 }
